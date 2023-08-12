@@ -1,5 +1,4 @@
 package com.example.a30dias.ui.theme
-
 import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -38,7 +37,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun _30DiasTheme(
+fun DiasTema(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
