@@ -1,3 +1,92 @@
 <resources>
-    <string name="app_name">30Dias</string>
+    <string name="app_name">30 Dias</string>
+    <string name="dia1">Confía en ti mismo</string>
+    <string name="description1">Tú tienes la fuerza para alcanzar tus metas financieras. ¡Confía en ti mismo y sigue adelante!</string>
+
+    <string name="dia2">Persistencia</string>
+    <string name="description2">El camino hacia la riqueza puede ser desafiante, pero la persistencia te llevará al éxito. ¡No te rindas!</string>
+
+    <string name="dia3">Ahorra inteligentemente</string>
+    <string name="description3">Cada pequeño ahorro suma con el tiempo. Encuentra formas inteligentes de ahorrar y verás crecer tu dinero.</string>
+
+    <string name="dia4">Invierte en tu educación</string>
+    <string name="description4">El conocimiento es una inversión que siempre rinde frutos. Aprende constantemente para mejorar tus perspectivas financieras.</string>
+
+    <string name="dia5">Diversifica tus ingresos</string>
+    <string name="description5">No dependas de una sola fuente de ingresos. Diversificar te brinda seguridad y oportunidades de crecimiento financiero.</string>
+
+    <string name="dia6">Haz presupuestos realistas</string>
+    <string name="description6">Un presupuesto te ayuda a controlar tus gastos y a asignar dinero a tus objetivos. Sé realista y disciplinado.</string>
+
+    <string name="dia7">Sé agradecido</string>
+    <string name="description7">La gratitud te mantiene enfocado en lo positivo. Aprecia lo que tienes mientras trabajas por lo que deseas alcanzar financieramente.</string>
+
+    <string name="dia8">Visualiza el éxito</string>
+    <string name="description8">Imagina con detalle tus metas financieras cumplidas. La visualización puede ayudarte a mantenerte motivado y enfocado.</string>
+
+    <string name="dia9">Aprende de los demás</string>
+    <string name="description9">Observa y aprende de aquellos que han logrado el éxito financiero. Sus experiencias pueden ser fuente de sabiduría.</string>
+
+    <string name="dia10">Invierte en ti mismo</string>
+    <string name="description10">Mejora tus habilidades y conocimientos para aumentar tu valor en el mercado. Una inversión en ti mismo siempre da rendimientos.</string>
+
+    <string name="dia11">Enfrenta los desafíos</string>
+    <string name="description11">Los desafíos financieros son oportunidades de crecimiento. Afróntalos con determinación y busca soluciones creativas.</string>
+
+    <string name="dia12">Sé disciplinado</string>
+    <string name="description12">La disciplina financiera es clave. Cumple con tus objetivos y decisiones para mantener un camino hacia el éxito.</string>
+
+    <string name="dia13">Planifica a largo plazo</string>
+    <string name="description13">No te enfoques solo en el presente. Planifica para el futuro y toma decisiones que beneficien tu situación a largo plazo.</string>
+
+    <string name="dia14">Supera los obstáculos</string>
+    <string name="description14">Los obstáculos son temporales. Mantén la determinación y la mentalidad positiva mientras superas cualquier adversidad.</string>
+
+    <string name="dia15">Invierte en diversión</string>
+    <string name="description15">El disfrute también es importante. Destina parte de tus recursos a actividades que te hagan feliz y reduzcan el estrés.</string>
+
+    <string name="dia16">Cuida tu crédito</string>
+    <string name="description16">Mantén un buen historial crediticio. Un buen crédito puede abrir puertas a préstamos favorables y oportunidades financieras.</string>
+
+    <string name="dia17">Explora nuevas ideas</string>
+    <string name="description17">La innovación puede conducir a oportunidades lucrativas. Mantén la mente abierta a nuevas formas de generar ingresos.</string>
+
+    <string name="dia18">Ahorra para emergencias</string>
+    <string name="description18">Siempre ten un fondo de emergencia. Esto te brinda seguridad y evita que los imprevistos afecten tu progreso financiero.</string>
+
+    <string name="dia19">Cultiva la paciencia</string>
+    <string name="description19">El éxito financiero lleva tiempo. Cultiva la paciencia y mantén tu enfoque a largo plazo sin desanimarte por resultados inmediatos.</string>
+
+    <string name="dia20">Invierte en bienestar</string>
+    <string name="description20">Tu salud y bienestar son activos valiosos. Invierte en cuidarte física y mentalmente para asegurar tu capacidad de prosperar.</string>
+
+    <string name="dia21">Simplifica tus finanzas</string>
+    <string name="description21">Un enfoque simple es más sostenible. Reduce la complejidad financiera y concéntrate en lo que realmente importa.</string>
+
+    <string name="dia22">Busca asesoramiento</string>
+    <string name="description22">No temas pedir consejos financieros a expertos. Aprovecha la sabiduría de quienes han recorrido el camino antes que tú.</string>
+
+    <string name="dia23">Invierte en relaciones</string>
+    <string name="description23">Las conexiones personales pueden llevar a oportunidades financieras. Construye y cuida relaciones sólidas en tu red.</string>
+
+    <string name="dia24">Cuida tu bienestar</string>
+    <string name="description24">Tu salud física y mental influye en tu éxito financiero. Cuida de ti mismo para poder dar lo mejor en tus esfuerzos financieros.</string>
+
+    <string name="dia25">Invierte en activos</string>
+    <string name="description25">En lugar de gastar en pasivos, invierte en activos que generen ingresos o aumenten de valor con el tiempo.</string>
+
+    <string name="dia26">Aprende de tus errores</string>
+    <string name="description26">Los errores financieros son oportunidades de aprendizaje. Identifica lo que salió mal y utiliza esa experiencia para mejorar.</string>
+
+    <string name="dia27">Colabora y conecta</string>
+    <string name="description27">La colaboración y las conexiones pueden abrir puertas financieras. Trabaja en equipo y construye relaciones sólidas.</string>
+
+    <string name="dia28">Invierte en conocimiento</string>
+    <string name="description28">La inversión más valiosa que puedes hacer es en tu propio conocimiento. Aprende y crece para abrir nuevas oportunidades financieras.</string>
+
+    <string name="dia29">Celebra tus logros</string>
+    <string name="description29">No olvides celebrar cada paso que das hacia tus objetivos financieros. Reconocer tu progreso te mantendrá motivado.</string>
+
+    <string name="dia30">Inspira a otros</string>
+    <string name="description30">Tu viaje hacia la prosperidad puede inspirar a otros a buscar sus sueños financieros. Comparte tu historia y motiva a quienes te rodean.</string>
 </resources>
