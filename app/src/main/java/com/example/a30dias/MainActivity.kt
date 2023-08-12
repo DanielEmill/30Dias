@@ -6,6 +6,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.MaterialTheme
@@ -15,7 +16,6 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.a30dias.model.DiasDataSource
@@ -42,7 +42,9 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun SuperheroesApp(){
     Scaffold(modifier = Modifier.fillMaxSize(), topBar = {TopAppBar()}){
-        val sugerencia = DiasDataSource.dias
+        val dias = DiasDataSource.dias
+
+        DiasLIST(dias = dias, Modifier.padding(it))
 
     }
 }
@@ -53,7 +55,8 @@ fun TopAppBar(modifier: Modifier = Modifier) {
         title = {
             Text(
                 text = stringResource(R.string.app_name),
-                style = MaterialTheme.typography.headlineMedium,
+                style = MaterialTheme.typography.displaySmall,
+                color = Color.Blue
             )
         },
         modifier = modifier
@@ -62,7 +65,7 @@ fun TopAppBar(modifier: Modifier = Modifier) {
 
 @Preview(showSystemUi = true)
 @Composable
-fun SuperheroesAppPreview() {
+fun DiaAppPreview() {
     DiasTema {
         SuperheroesApp()
     }
